@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grace Pham</h1>
-<h3 align="center">A passionate student pursuing computer science in Florida.</h3>
+<h3 align="center">A passionate student pursuing Mathematics and Computer Science in Florida.</h3>
 
 - 🔭 I’m currently working on **HTML, CSS, JavaScript**
 
